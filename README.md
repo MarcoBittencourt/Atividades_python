@@ -2,6 +2,7 @@ Este repositório contém a implementação de 10 programas em Python para resol
 O trabalho é individual
 
 📌 Exercícios
+
 1 – Ordenação crescente de 3 números
 Ler três números inteiros e exibir em ordem crescente.
 
